@@ -1,2 +1,2 @@
 # Python
-This is my ongoing theses.
+This is my ongoing thesis.
